@@ -23,8 +23,11 @@
     }
   }
 
-  var passcodes =`
-  ezekiel3xh34ug4
+  window.redeemLoop = redeemLoop
+
+  // Format: passcodes separate by \n, will be split to array later.
+  var passcodes =
+  `ezekiel3xh34ug4
   susanna3ku75cm9
   LVBOYNXAIE
   VI2JO15ND0

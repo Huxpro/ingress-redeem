@@ -1,14 +1,14 @@
 # Ingress Redeem 
 
-This is a browser script (a.k.a javascript) snippet for **continuously passcode redeeming** in game ingress.
+This is a browser script (a.k.a javascript) snippet for **continuously passcode redeeming** in game Ingress.
 
 ### How to use it
 
 1. Open the Web version of ingress: https://www.ingress.com/intel 
-2. Make sure you have already logged ing
-- Open Chrome DevTool (RightClick then 'Inspect') - Console
+2. Make sure you have already logged in
+- Open Chrome DevTool (Right click then 'Inspect') - Console
 - Copy code from `index.js` and paste into the console
-- Press `Enter` to run 
+- Press Enter to run 
 
 ### API 
 
