@@ -1,5 +1,7 @@
 # Ingress Redeem 
 
+[中文](https://github.com/Huxpro/ingress-redeem/blob/master/README.zh.md)
+
 This is a browser script (a.k.a javascript) snippet for **continuously passcode redeeming** in game ingress.
 
 ### How to use it
