@@ -59,8 +59,8 @@
 
   /**
    * Start Redeem Loop
-   * @param  {array}  passcodes
-   * @param  {number} interval
+   * @param  {String} passcodes
+   * @param  {Number} interval
    * @return
    */
   redeemLoop(passcodes, 5000);
