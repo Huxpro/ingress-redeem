@@ -5,14 +5,14 @@ This is a browser script (a.k.a javascript) snippet for **continuously passcode 
 ### How to use it
 
 1. Open the Web version of ingress: https://www.ingress.com/intel 
-2. Log in
+2. Make sure you have already logged in
 - Open Chrome DevTool - Console
 - Copy code from `index.js` and paste into the console
 - Press `Enter` to run 
 
 ### API 
 
-```
+```javascript
   /**
    * Start Redeem Loop
    * @param  {array}  passcodes
