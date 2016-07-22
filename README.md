@@ -12,7 +12,7 @@ This is a browser script (a.k.a javascript) snippet for **continuously passcode 
 
 ### API 
 
-`
+```
   /**
    * Start Redeem Loop
    * @param  {array}  passcodes
@@ -20,7 +20,7 @@ This is a browser script (a.k.a javascript) snippet for **continuously passcode 
    * @return
    */
   redeemLoop(passcodes, 5000);
-`
+```
 
 Change passcodes to use your own, or change interval to run it faster or slower. 
 
