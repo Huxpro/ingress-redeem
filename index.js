@@ -6,6 +6,7 @@
   function redeemOnce(passcode){
     $passcode.value = passcode;
     $submit.click()
+    console.log('redeeming ' + passcode);
   }
 
   function redeemLoop(passcodes, interval){
@@ -16,11 +17,13 @@
       setTimeout((function(){
         let _i = i
         return function(){
-          console.log(passcodeList[_i]);
-          redeemOnce(passcodeList[_i])
+          var _p = passcodeList[_i].trim()
+          redeemOnce(_p)
         }
       })(), interval * i)
     }
+
+    console.log('continuously redeeming begin!')
   }
 
   window.redeemLoop = redeemLoop
