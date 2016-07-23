@@ -14,13 +14,16 @@
     console.log(passcodeList);
 
     for (var i = 0; i < passcodeList.length; i++) {
-      setTimeout((function(){
-        let _i = i
-        return function(){
-          var _p = passcodeList[_i].trim()
-          redeemOnce(_p)
-        }
-      })(), interval * i)
+      setTimeout(
+        (function(){
+          let _i = i
+          return function(){
+            var _p = passcodeList[_i].trim()
+            redeemOnce(_p)
+          }
+        })(), 
+        interval * i 
+      )
     }
 
     console.log('continuously redeeming begin!')
@@ -69,5 +72,5 @@
    * @param  {Number} interval
    * @return
    */
-  redeemLoop(passcodes, 5000);
+  redeemLoop(passcodes, 10000);
 }())
