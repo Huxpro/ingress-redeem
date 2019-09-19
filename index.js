@@ -33,38 +33,25 @@
 
   // Format: passcodes separate by \n, will be split to array later.
   var passcodes =
-  `ezekiel3xh34ug4
-  susanna3ku75cm9
-  LVBOYNXAIE
-  VI2JO15ND0
-  vi9bb02fk7
-  vi9rp62ex1
-  inveniri2hc78yy4
-  artifact4tt67xg9
-  roland8cx62mk4
-  evolution6xu68ru7
-  timezero2kk78gx5
-  hubert4su42qt2
-  lightman8nd48zb2
-  johnson3ba26qb2
-  jackland8vf92qz5
-  powercube3hu72ut7
-  glyph7jb25yw3
-  johnson3fx84aw9
-  symbols4ye57bs7
-  kureze3ft26jc6
-  blue2xc26da2
-  resonate6wb48ec4
-  MINOTAUR8DM83GG5
-  ezekiel7eu89au4
-  ingress9tu32jk7
-  ni7up28fu6
-  drone5sg25ez6
-  drone9rc88jy5
-  message5ka73rp4
-  80jdfitmar
-  CASSANDRA2YU35CP6
-  alignment3qh24up8`
+  `zkm55ysix876kv
+tyv77ysix934dv
+eys33ysix728xb
+jpq87ysix939fh
+wjv55ysix898ad
+ucc68ysix289uu
+mkb69ysix998kp
+fac73ysix327wc
+oev38ysix837ze
+ryj39ysix288se
+mkb69ysix998kp
+YBP27JAMA673WW
+PZZ64JAMA626PC
+GOX64JAMA258SD
+SRQ86JAMA572MU
+AWZ22JAMA799WN
+ROA67JAMA978QJ
+TTK22JAMA777FD
+CPP35JAMA422AA`
 
   /**
    * Start Redeem Loop
